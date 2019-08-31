@@ -2,10 +2,11 @@
 
 ## 第一步 安装 Docker
 
-Docker是一个通用的虚拟软件。一般可以在 [github](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)下载到。  [苹果系统下载](https://download.docker.com/mac/stable/Docker.dmg)
+Docker是一个通用的虚拟软件。一般可以在Github下载。 [widow](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)  [苹果](https://download.docker.com/mac/stable/Docker.dmg)
 
-## 第二步 运行以下的命令
-它的作用是运行一个TOR的服务在端口 9150
+## 第二步 运行以下的命令 可以复制粘贴
+
+它的作用是运行一个TOR的服务在端口 9150,保留这个窗口先不要关掉。
 
 ```
 docker run -it -p 9050:9050 toronsynology/tor-client-minimal
