@@ -2,7 +2,7 @@
 
 ## 第一步 安装 Docker
 
-Docker是一个通用的虚拟软件。一般可以在Github下载。 [widow](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)  [苹果](https://download.docker.com/mac/stable/Docker.dmg)
+Docker是一个通用的虚拟软件。一般可以在Github下载。 [window](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)  [苹果](https://download.docker.com/mac/stable/Docker.dmg)
 
 ## 第二步 运行以下的命令 可以复制粘贴
 
