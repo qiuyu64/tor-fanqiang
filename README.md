@@ -7,9 +7,9 @@ Docker是一个通用的虚拟软件。一般可以在 [github](https://download
 ## 第二步 运行以下的命令
 它的作用是运行一个TOR的服务在端口 9150
 
-···
+```
 docker run -it -p 9050:9050 toronsynology/tor-client-minimal
-···
+```
 
 ## 第三步 配置使用 9150端口 进行网络连接
 
